@@ -6,7 +6,7 @@ Five individual Deep Q-Network (DQN) RL models were trained until near-convergen
 
 The results are below. As evident, the ensemble algorithm outperforms every individual model.
 
-![rewards](https://user-images.githubusercontent.com/47801356/88360667-3807f980-cd3c-11ea-9522-7bc2f5a5047f.png)
+![rewards](https://user-images.githubusercontent.com/47801356/88360752-7ef5ef00-cd3c-11ea-9639-5e200ec40d2b.png)
 
 
 
